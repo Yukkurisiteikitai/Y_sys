@@ -1,0 +1,6 @@
+[submodule "Y-sys-frontend"]
+	path = Y-sys-frontend
+	url = git@github.com:Yukkurisiteikitai/Y-sys-frontend.git
+[submodule "Y-sys-backend"]
+	path = Y-sys-backend
+	url = git@github.com:Yukkurisiteikitai/Y-sys-backend.git
