@@ -1,6 +1,11 @@
+# 基本的に最新情報を取得するようにしたいのでmainで行う、基本的にbugや修正versionは基本的にブランチ切って渡すので一旦この情報にしてreleaseしたいってなった場合はコミット指定リリースとする。
+
 [submodule "Y-sys-frontend"]
 	path = Y-sys-frontend
 	url = git@github.com:Yukkurisiteikitai/Y-sys-frontend.git
+	branch = main
+
 [submodule "Y-sys-backend"]
 	path = Y-sys-backend
 	url = git@github.com:Yukkurisiteikitai/Y-sys-backend.git
+	branch = main
